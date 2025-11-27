@@ -213,7 +213,7 @@ export default function App() {
         <header className="flex items-center justify-between rounded-2xl border border-white/5 bg-white/5 px-6 py-4 backdrop-blur">
           <div>
             <p className="text-sm uppercase tracking-[0.2em] text-slate-400">Starter</p>
-            <h1 className="text-2xl font-semibold text-white">DAOO DApp</h1>
+            <h1 className="text-2xl font-semibold text-white">DAO DApp</h1>
           </div>
           <ConnectButton />
         </header>
